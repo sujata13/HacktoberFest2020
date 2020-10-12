@@ -1,4 +1,4 @@
-// C++ program for insertion sort  
+// C++ program to demonstrate implementation of insertion sort  
 #include <bits/stdc++.h> 
 using namespace std; 
   
