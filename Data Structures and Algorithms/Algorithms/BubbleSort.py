@@ -1,5 +1,5 @@
-# Python program for implementation of Bubble Sort
-
+# Python program for implementation of Bubble Sort Algorithm
+ 
 def bubbleSort(arr):
     n = len(arr)
 
