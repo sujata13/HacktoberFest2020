@@ -1,4 +1,4 @@
-// C++ program for implementation of selection sort  
+// C++ program for implementation of selection sort  Algorithm
 #include <bits/stdc++.h> 
 using namespace std; 
   
