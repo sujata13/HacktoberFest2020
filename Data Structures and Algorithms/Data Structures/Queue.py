@@ -1,6 +1,4 @@
-# Python program to  
-# demonstrate queue implementation 
-# using list 
+# Python program to demonstrate queue implementation using list 
   
 # Initializing a queue 
 queue = [] 
