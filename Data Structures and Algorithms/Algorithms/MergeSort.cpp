@@ -1,3 +1,5 @@
+#C++ program to demonstrate the implementation of Merge Sort
+
 #include<iostream>
 using namespace std;
 void swapping(int &a, int &b) {     //swap the content of a and b
