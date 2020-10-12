@@ -1,4 +1,5 @@
-# A simple Python program for traversal of a linked list 
+# A simple Python program for traversal of a linked list  
+# This program can be used as the reference
   
 # Node class 
 class Node: 
